@@ -18,19 +18,12 @@ Sou um desenvolvedor em Python que sempre busca evolução e aprendizado em novo
 
 ---
 
-## 📂 Meus Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-
-
 ---
 
 ## 📞 Contato
 
-Você pode me encontrar por aqui:
-
-
+Instagram -> https://www.instagram.com/_matheus_betao/
+Linkedln -> https://www.linkedin.com/in/matheus-souza-385712266/
 
 ---
 
