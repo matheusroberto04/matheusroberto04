@@ -1,6 +1,6 @@
 # SOBRE MIM 
 
-# Sou um desenvolvedor em Python que sempre busca evolução e aprendizado em novos projetos!! Estou criando meu portifólio para conseguir uma boa bagagem de conhecimento!! Abaixo vou deixar alguns projetos que fiz!
+Sou um desenvolvedor em Python que sempre busca evolução e aprendizado em novos projetos!! Estou criando meu portifólio para conseguir uma boa bagagem de conhecimento!! Abaixo vou deixar alguns projetos que fiz!
 
 - 🐍 **Python** – scripts, automações, APIs e projetos com Django
 - 🌐 **HTML & CSS** – estruturação e estilização de páginas responsivas
